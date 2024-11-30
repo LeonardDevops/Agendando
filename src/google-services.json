@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237485916861",
+    "project_id": "agendando-7dc04",
+    "storage_bucket": "agendando-7dc04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237485916861:android:bde68edb9803aacff76dd4",
+        "android_client_info": {
+          "package_name": "agendando.com.br"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK4ylfmgh7xPxfHFOXv63DbjYV2KyGqqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
